@@ -1,0 +1,9 @@
+# created by virtualenv automatically
+/.idea/
+/venv/
+/Lib/
+/Scripts/
+data.csv
+main_test.py
+selenium-server-4.14.1.jar
+pyvenv.cfg
